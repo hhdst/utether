@@ -18,5 +18,5 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 <br/>
 <img src="https://github.com/hhdst/utether/blob/main/Untitled.png?raw=true"/>
-BLACK WIDOWS-TURING(HOSSEIN.HOSSEINDOOST)
+BLACK WIDOWS-TURING(HOSSEIN.HOSSEINDOUST)
 
